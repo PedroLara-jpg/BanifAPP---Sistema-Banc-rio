@@ -1,6 +1,6 @@
 # BANIF — Sistema Bancário Digital
 
-Sistema bancário completo com módulo de Gerente e Cliente.
+Sistema bancário completo desenvolvido como trabalho de conclusão para  disciplina de WEBII com módulo de Gerente e Cliente.
 
 ## Tecnologias
 
